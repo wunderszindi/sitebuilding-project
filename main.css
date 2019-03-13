@@ -20,7 +20,7 @@ header {
   height: 200px;
   /*text-align: center;*/
 }
-.logo > img {
+.logo img {
   height: 180px;
   width: auto;
   padding: 0px;
